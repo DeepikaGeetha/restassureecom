@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-16T08:39:14Z" name="Default suite" finished-at="2022-03-16T08:39:30Z" duration-ms="15990">
+    <groups>
+    </groups>
+    <test started-at="2022-03-16T08:39:14Z" name="Default test" finished-at="2022-03-16T08:39:30Z" duration-ms="15990">
+      <class name="RestTest.E_commerce">
+        <test-method signature="signup()[pri:0, instance:RestTest.E_commerce@13d4992d]" started-at="2022-03-16T14:09:14Z" name="signup" finished-at="2022-03-16T14:09:21Z" duration-ms="7827" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signup -->
+        <test-method signature="login()[pri:1, instance:RestTest.E_commerce@13d4992d]" started-at="2022-03-16T14:09:21Z" name="login" finished-at="2022-03-16T14:09:25Z" duration-ms="3780" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="getusers()[pri:2, instance:RestTest.E_commerce@13d4992d]" started-at="2022-03-16T14:09:25Z" name="getusers" finished-at="2022-03-16T14:09:28Z" duration-ms="2654" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getusers -->
+        <test-method signature="deleteuser()[pri:3, instance:RestTest.E_commerce@13d4992d]" started-at="2022-03-16T14:09:28Z" name="deleteuser" finished-at="2022-03-16T14:09:30Z" duration-ms="1691" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteuser -->
+      </class> <!-- RestTest.E_commerce -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
